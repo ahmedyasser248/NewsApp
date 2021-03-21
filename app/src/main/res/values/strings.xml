@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVMNewsApp</string>
+    <string name="save_men_item">Saved News</string>
+    <string name="search_news_item">Search</string>
 </resources>
